@@ -1,0 +1,2 @@
+wget https://github.com/aquasecurity/trivy/release/download/v0.66.0/trivy_0.66.0_linux-64bit.deb
+sudo dpkg -i trivy_0.66.0_linux-64bit.deb
